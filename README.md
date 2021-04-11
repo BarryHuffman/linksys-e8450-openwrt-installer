@@ -1,3 +1,7 @@
+## THIS REPO HAS BEEN ARCHIVED FOR POSTERITY
+## PLEASE USE THE UPSTREAM REPO FOR ANY FUTURE MODIFICATIONS!
+
+########################################################################################################################
 # OpenWrt UBI installer image genarator
 for the Linksys E8450 aka. Belkin RT3200
 
